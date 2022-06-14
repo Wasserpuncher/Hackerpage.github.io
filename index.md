@@ -3,30 +3,18 @@
 My First Github Page: Wasserpuncher.github.io
 
 ### Right up front, this page is not for illegal stuff but this page is for learning HTML. 
-I am not liable for illegal activities.
+*I am not liable for illegal activities.*
 
-### Markdown
+***If you have any ideas what I could do with HTML then feel free to contact me at the email address written below. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 
 ```
 ``
+
 
 
 ### Support or Contact
